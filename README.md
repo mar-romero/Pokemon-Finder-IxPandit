@@ -155,13 +155,14 @@ npm run test:coverage
 
 # 🤝 Contribución
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
+```bash
 
 Haz fork del repositorio
 Crea una rama para tu feature (git checkout -b feature/feature)
 Haz commit de tus cambios (git commit -m 'Add some  feature')
 Haz push a la rama (git push origin feature/feature)
 Abre un Pull Request
-
+```
 📞 Contacto
 Tu Nombre - **romero.marcelo.ar@gmail.com**
 
